@@ -6,7 +6,7 @@ I'm interested in backend engineering, distributed systems, and tools that remov
 
 ## Featured projects
 
-### [Intern Compass](https://github.com/Intern-Compass/backend)
+### [Intern Compass](https://github.com/TechBroAdedara/intern-compass-backend)
 FastAPI backend for an intern onboarding and supervision platform. Handles authentication, profiles, projects, tasks, and skill-based supervisor matching with PostgreSQL, SQLAlchemy, Alembic, and Docker.
 
 ### [Ave Geofence System](https://github.com/AveGeofencing/Ave)
