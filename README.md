@@ -6,11 +6,11 @@ I'm interested in backend engineering, distributed systems, and tools that remov
 
 ## Featured projects
 
-### [Intern Compass](https://github.com/TechBroAdedara/intern-compass-backend)
-FastAPI backend for an intern onboarding and supervision platform. Handles authentication, profiles, projects, tasks, and skill-based supervisor matching with PostgreSQL, SQLAlchemy, Alembic, and Docker.
-
 ### [Ave Geofence System](https://github.com/TechBroAdedara/Ave)
 FastAPI and SQLAlchemy backend for geofence-based student attendance. Supports fence creation, check-in, AWS face-liveness and face-match verification, session auth, and Docker deployment.
+
+### [Intern Compass](https://github.com/TechBroAdedara/intern-compass-backend)
+FastAPI backend for an intern onboarding and supervision platform. Handles authentication, profiles, projects, tasks, and skill-based supervisor matching with PostgreSQL, SQLAlchemy, Alembic, and Docker.
 
 ### [Hatt Chat](https://github.com/TechBroAdedara/Hatt-Chat-App)
 REST API for a chat platform built with .NET 9, ASP.NET Core, EF Core, and MySQL. Includes JWT authentication, user discovery, friend requests, and message history/sending, with a SignalR foundation for real-time delivery.
