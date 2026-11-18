@@ -6,7 +6,7 @@ I'm interested in backend engineering, distributed systems, and tools that remov
 
 ## Featured projects
 
-### [Ave Geofence System](https://github.com/TechBroAdedara/Ave)
+### [Ave](https://github.com/TechBroAdedara/Ave)
 FastAPI and SQLAlchemy backend for geofence-based student attendance. Supports fence creation, check-in, AWS face-liveness and face-match verification, session auth, and Docker deployment.
 
 ### [Intern Compass](https://github.com/TechBroAdedara/intern-compass-backend)
