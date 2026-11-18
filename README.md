@@ -9,7 +9,7 @@ I'm interested in backend engineering, distributed systems, and tools that remov
 ### [Intern Compass](https://github.com/TechBroAdedara/intern-compass-backend)
 FastAPI backend for an intern onboarding and supervision platform. Handles authentication, profiles, projects, tasks, and skill-based supervisor matching with PostgreSQL, SQLAlchemy, Alembic, and Docker.
 
-### [Ave Geofence System](https://github.com/AveGeofencing/Ave)
+### [Ave Geofence System](https://github.com/TechBroAdedara/Ave)
 FastAPI and SQLAlchemy backend for geofence-based student attendance. Supports fence creation, check-in, AWS face-liveness and face-match verification, session auth, and Docker deployment.
 
 ### [Hatt Chat](https://github.com/TechBroAdedara/Hatt-Chat-App)
